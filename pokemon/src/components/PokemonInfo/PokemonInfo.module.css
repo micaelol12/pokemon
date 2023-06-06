@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 1px;
+    width: 15%;
+    flex-direction: column;
+    border-style: solid;
+}
+
+.grass {
+    background-color: rgb(124, 184, 124);
+}
+
+.fire {
+    background-color: rgb(214, 127, 69);
+}
+
+.bug {
+    background-color: rgb(201, 201, 123);
+}
+
+.normal {
+    background-color: rgb(209, 209, 209);
+}
+
+.water {
+    background-color: rgb(129, 129, 223);
+}
